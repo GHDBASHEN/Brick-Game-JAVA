@@ -2,7 +2,7 @@
 
 # Brick Game
 
-Welcome to the Brick Game project! This is a simple and fun brick-breaking game created using [your programming language or framework].
+Welcome to the Brick Game project! This is a simple and fun brick-breaking game created using JAVA OOP.
 
 ## Table of Contents
 
@@ -60,12 +60,6 @@ To run the Brick Game on your local machine, follow these steps:
 - Clear all the bricks to advance to the next level.
 - Don't let the ball fall off the screen, or you will lose a life.
 
-## Screenshots
-
-Include some screenshots of your game to give users a visual idea of what it looks like.
-
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
 
 ## Contributing
 
